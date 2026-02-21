@@ -1,5 +1,5 @@
 #!/bin/bash
-export REPOSITORY=github
+export REPOSITORY=windows-10
 
 kill
 rm --force /workspaces/$REPOSITORY/windows/data.img

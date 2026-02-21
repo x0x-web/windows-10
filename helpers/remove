@@ -1,4 +1,4 @@
 #!/bin/bash
-export REPOSITORY=github
+export REPOSITORY=windows-10
 
 docker compose --file /workspaces/$REPOSITORY/windows/windows.yaml down
